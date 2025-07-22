@@ -61,8 +61,8 @@
             </div>
             <div class="footer-section">
                 <h3>Contact Us</h3>
-                <p>Email: <a href="mailto:supportshopeasy.com">yamini@shopeasy.com</a></p> <!-- Bug: Missing ':' in mailto -->
-                <p>Phone: <a href="tel:9876543210">+91 9392469235</a></p>
+                <p>Email: <a href="mailto:supportshopeasy.com">yamini@com</a></p> <!-- Bug: Missing ':' in mailto -->
+                <p>Phone: <a href="tel:9876543210">1234567891</a></p>
             </div>
         </div>
         <div class="footer-bottom">
