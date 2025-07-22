@@ -54,8 +54,8 @@
             <div class="footer-section">
                 <h3>Quick Links</h3>
                 <ul>
-                    <li><a href="#mobile">Mobiles</a></li> <!-- Bug: Incorrect anchor ID (should be #mobiles) -->
-                    <li><a href="#laptps">Laptops</a></li> <!-- Bug: Typo in href (#laptps instead of #laptops) -->
+                    <li><a href="#mobile">phone</a></li> <!-- Bug: Incorrect anchor ID (should be #mobiles) -->
+                    <li><a href="#laptps">desktop</a></li> <!-- Bug: Typo in href (#laptps instead of #laptops) -->
                     <li><a href="#clothes">Clothes</a></li>
                 </ul>
             </div>
