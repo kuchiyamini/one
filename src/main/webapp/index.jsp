@@ -14,8 +14,8 @@
         </div>
         <nav>
             <ul>
-                <li><a href="#mobiles">oppo</a>
-                <li><a href="#laptops">hp</a></li>
+                <li><a href="#system">oppo</a>
+                <li><a href="#desktop">hp</a></li>
                 <li><a href="#clothes">batalu</a></li>
                 <li><a href="#cart"><em class="fas fa-shopping-cart"></em> Cart <span id="cart-count">0</span></a></li>
             </ul>
